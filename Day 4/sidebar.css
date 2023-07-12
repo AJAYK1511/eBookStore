@@ -1,0 +1,72 @@
+.side
+{
+    margin-top: 0;
+    margin-left: 0;
+    position: flex;
+    width: 30px;
+    padding: 5px;
+    /* background-color: rgb(236, 228, 225); */
+    
+}
+button{
+    height: 30px;
+}
+.hgf
+{
+    display: block;
+    text-align: center;
+    width: 200px;
+}
+.hgg{
+    display: none;
+}
+.vel{
+    border-radius: 5px;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(136, 175, 225);
+    position: fixed;
+    width: 250px;
+    margin-top: 0;
+}
+/* .side-menu {
+    display: none;
+    position: fixed;
+    background: #1D2951;
+    opacity:0.8;
+    width: 250px;
+    height: 100%;
+
+}
+.side-menu a {
+    display: block;
+    line-height: 60px;
+}
+
+.side-menu a:hover {
+    transition: 1.5s;
+    background: rgb(50, 237, 144);
+    padding-left: 20px;
+} */
+
+.side-menu span {
+    font-size: 20px;
+    margin-left: 10px;
+    color: white;
+    margin-left: 20px;
+}
+h4{
+    border: 1px solid rgb(227, 180, 180);
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+}
+h4:hover:not(.active) {
+    background-color: rgb(231, 142, 200);
+  }
+  a{
+    text-decoration: none;
+    /* background-color: white; */
+    color: black;
+  }
