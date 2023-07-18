@@ -1,0 +1,23 @@
+.ourstore{
+    /* border: 2px solid grey; */
+    margin-top: 50px;
+    height: 250px;
+    background-color: rgb(153, 192, 111);
+    padding: 20px;
+}
+.ourstore1{
+    
+    margin-top: 50px;
+    height: 600px;
+    background-color: rgb(194, 140, 192);
+    padding: 20px;
+    border-radius: 15px;
+}
+.ourstore2{
+    padding: 20px;
+    height: 40px;
+    margin-top: 1000px;
+    margin-left: 50px;
+    background-color: rgb(39, 21, 21);
+    color:white;
+}

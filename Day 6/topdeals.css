@@ -1,0 +1,59 @@
+.firstdeal
+{
+    float: left;
+    margin-left: 50px;
+    & img{
+    box-shadow:15px 16px 4px rgb(191, 80, 80);
+    }
+}
+.mydeals
+{
+    background-color: beige;
+    /* border: 2px solid lightblue; */
+    height: 290px;
+    padding: 40px;
+    margin: 30px;
+}
+#firstdealimg
+{
+     height: 260px;
+     width: 170x;
+     margin-top: 20px;
+}
+.secodeal
+{
+    text-align: center;
+    font-size: 25px;
+}
+.firstdeal1
+{
+    float: left;
+    margin-left: 50px;
+    & img{
+    box-shadow:15px 16px 4px rgb(191, 80, 80);
+    }
+}
+.mydeals1
+{
+    background-color: rgb(213, 235, 151);
+    /* border: 2px solid rgb(114, 192, 218); */
+    height: 290px;
+    padding: 40px;
+    margin: 30px;
+}
+#firstdealimg1
+{
+     height: 260px;
+     width: 170x;
+     margin-top: 20px;
+}
+.secodeal1
+{
+    text-align: center;
+    font-size: 25px;
+}
+#floatlefttod
+{
+    float: left;
+  font-size: 30px;
+}
