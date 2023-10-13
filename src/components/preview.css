@@ -1,0 +1,58 @@
+.imgs3{
+    /* text-align: center; */
+    width: 100%;
+}
+
+.Book3{
+    border: 10px solid rgb(224, 112, 209);
+    margin-top: 20px;
+    /* border-radius: 10px; */
+    padding: 10px;
+}
+
+.cont3{
+    font-size: 15px;
+    /* bottom: 20px; */
+}
+
+.r1{
+    display: grid;
+    grid-template-columns: 270px auto;
+    height: 430px;
+}
+
+.i1{
+    padding: 1px;
+}
+
+#btn{
+    background-color: rgb(231, 139, 139);
+    color: rgb(16, 15, 15);
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    border-radius: 40px;
+    outline: none;
+    transition: 0.2s;
+    height: 40px;
+    cursor: pointer;
+}
+.Titl
+{
+    margin-top: 28px;
+    margin-left: 20px;
+    height: 100%;
+    width: 85%;
+}
+
+
+.si1{
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+.borrder{
+    /* border: 2px solid black; */
+    padding: 20px;
+    background-color: bisque;
+    border-radius: 5px;
+}

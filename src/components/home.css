@@ -1,0 +1,88 @@
+.pos
+{
+    position: fixed;
+    background-color: rgb(231, 188, 107);
+    height: 100%;
+    width: 50px;
+    margin-top: 20px;
+}
+
+.dfg{
+    /* margin-left: 70px; */
+    float: left;
+    width:250px;
+    height: 250px;
+    margin: 10px;
+}
+.main
+{
+    margin-left: 70px;
+    text-align: center;
+    padding: 10px;
+    height: 100px;
+}
+.mainone
+{
+    margin: 25px;
+    /* align-items: center; */
+}
+.foot
+{
+    padding: 20px;
+     margin-top: 1800px;
+     margin-left: 50px;
+     height: 200px;
+     background-color: rgb(50, 46, 46);
+     color: rgb(248, 245, 245);
+    /* margin-left: 0; */
+}
+.gfgf{
+    padding: 10px;
+    margin-top: 0;
+    margin:10px;
+    float: left;
+    width: 22%;
+    height: 300px;
+    display: absolute;
+    font-size: 20px;
+}
+
+.tot ::after {
+   content: "";
+   clear : both;
+   display:table;
+}
+.some
+{
+   display: flex;
+}
+  .leftext
+{
+    color: rgb(57, 133, 231);
+}
+.seco{
+    display: grid;
+    grid-template-columns: 300px auto;
+    margin: 5px;
+    border: 2px solid rgb(35, 21, 37);
+    padding: 20px;
+    background-color:rgb(234, 128, 131);
+    color: white;
+    /* float: left; */
+}
+#changeco{
+    color: rgb(16, 6, 6);
+}
+#asdfg{
+    height: 230px;
+    width: 160px;
+    transition: 0.8s;
+}
+#asdfg:hover{
+    scale: 1.1;
+    transition: 0.2s;
+}
+.collecton
+{
+    margin-top: 700px;
+}

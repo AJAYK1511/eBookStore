@@ -1,0 +1,28 @@
+.myautho{
+    font-size: 20px;
+    float: left;
+    /* background-color: antiquewhite; */
+}
+.mylistauth
+{
+    background-color: rgb(228, 215, 199);
+    padding: 40px;
+    width: 132%;
+    
+}
+dt{
+    /* border: 2px solid rgb(28, 31, 32); */
+    border-radius: 7px;
+    padding: 20px;
+    background-color: rgb(81, 76, 87);
+    color: white;
+    /* float: left; */
+}
+dd{
+    /* border: 2px solid grey; */
+    padding: 15px;
+    border-radius: 15px;
+    background-color: azure;
+    margin-right: 30px;
+    margin-bottom: 40px;
+}

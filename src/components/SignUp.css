@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    padding:30px;
+    margin: auto;
+    width: 350px;
+    color: rgb(35, 58, 162)
+}
+.cen{
+    /* border: 4px solid rgb(36, 94, 175); */
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center; */
+    background-color: white;
+     padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+    /* background-image: linear-gradient(to bottom right, rgb(242, 243, 236) , rgb(204, 194, 145)); */
+    float:right;
+    margin-top: 50px;
+    margin-right: 150px;
+    width: 500px;
+    height: 400px;
+}
+.whole{
+    background-image: url("https://img.freepik.com/free-photo/3d-render-books-stack-blue-background-reading_107791-16454.jpg?w=1380&t=st=1690516393~exp=1690516993~hmac=9538419d3d49cb30f39d98c23600434730858a87a6b2883db3a4ac4630656104");
+    /* height: 100vh; */
+    background-size:cover;
+    background-position: center;
+}
+input[type=email]
+{
+    border-radius: 4px;
+    width: 270px;
+    padding: 3px;
+}
+input[type=password]
+{
+    border-radius: 4px;
+    width: 270px;
+    padding: 3px;
+}
+.immg{
+   float: right;
+}
+p{
+    margin: 0%;
+    height: 5px;
+}
+.redd
+{
+    color: rgb(193, 21, 199);
+}

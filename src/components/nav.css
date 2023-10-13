@@ -1,0 +1,88 @@
+ul {
+    list-style-type: none;
+    padding: 2px;
+    font-size: 18px;
+    border-bottom: 2px solid gray;
+    margin-top: 0;
+    width: 100%;
+    background-color: rgb(214, 231, 246);
+    height: 55px;
+    position:fixed; 
+    z-index: 9995;
+  }
+  
+  .ele {
+    float: left;
+    margin-left: 35px;
+}
+
+.ele a {
+    display: block;
+    margin-left: 10px;
+    color: rgb(6, 5, 5);
+    /* border-right: 2px solid red; */
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    border-radius: 15px;
+  }
+  
+  .ele a:hover:not(.active) {
+    background-color: rgb(57, 133, 231);
+    color:white;
+  }
+
+  .sele {
+    float: left;
+    margin-left: 35px;
+}
+
+.sele a {
+    display: block;
+    margin-left: 10px;
+    background-color: rgb(57, 133, 231);
+    color:white;
+    /* border-right: 2px solid red; */
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    border-radius: 15px;
+  }
+  
+  .sele a:hover:not(.active) {
+    background-color:rgb(57, 133, 231);
+    color: white;
+  }
+
+.accimg
+{
+   
+    margin-right: 100px;
+    float: right;
+    width: 20px;
+    height: 54px;
+  }
+.cvv
+{
+    float: right;
+    display: block;
+    text-align: center;
+    height: 50px;
+    width: 150px;
+}
+.cvvv{
+    display: none;
+}
+.bor
+{
+    background-color: rgb(176, 230, 67);
+    border: 1px solid black;
+}
+.righ{
+    float: right;
+    margin-right: 30px;
+}
+.gg
+{
+  margin-top: 0px;
+}

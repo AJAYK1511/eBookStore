@@ -1,0 +1,17 @@
+.hfg
+{
+    margin-top: 40px;
+    float: left;
+}
+#qwerty{
+    height: 240px;
+    width: 160px;
+    scroll-behavior: smooth;
+}
+.hfg a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }

@@ -1,0 +1,59 @@
+.h{
+    text-align: center;
+}
+
+.f1{
+    width: 30%;
+    height: 140px;
+    text-align: center;
+    /* margin-top: 20px; */
+}
+.f1:hover{
+    width: 30%;
+    height: 140px;
+    text-align: center;
+}
+#fs{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    height: 40px;
+    width: 13%;
+    font-size: 18px;
+}
+
+#fs:hover{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    height: 42px;
+    width: 14%;
+    font-size: 19px;
+}
+#fs:active{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    height: 40px;
+    width: 13%;
+    font-size: 18px;
+}
+
+
+.fe{
+    width: 10%;
+    height: 20px;
+}
+
+.f{
+    width: 30%;
+    margin-top: 10px;
+}
+
+.f:hover{
+    width: 30%;
+    margin-top: 10px;
+}
